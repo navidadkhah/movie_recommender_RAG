@@ -1,2 +1,4 @@
 .env
 venv/
+movies.csv
+movies_genres.csv
