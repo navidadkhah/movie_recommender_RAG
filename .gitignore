@@ -2,3 +2,4 @@
 venv/
 movies.csv
 movies_genres.csv
+tv_shows_genres.csv
